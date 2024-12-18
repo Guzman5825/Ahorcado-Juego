@@ -1,6 +1,6 @@
 package Main;
 
-import objetos.Mostrador;
+import objetos.PalabraSecreta;
 
 public class App {
 
