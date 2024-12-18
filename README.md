@@ -1,16 +1,16 @@
 # ahorcado -- proyecto
----------- caracteristicas durante el juego
--1 solo jugador 
--por defecto tiene 3 oportudanidades
--solo puede ingresar de letras de la A-Z
--cuando se haya usado esa letra, desaparecera en la lista de opciones
+## caracteristicas durante el juego
+- 1 solo jugador 
+- por defecto tiene 3 oportudanidades
+- solo puede ingresar de letras de la A-Z
+- cuando se haya usado esa letra, desaparecera en la lista de opciones
 
 
----------- menu inicial
+## menu inicial
 --1)opcion partida rapida
 --2)sin limite
 
----------- funciones adicionales
+## funciones adicionales
 --implementar musica de fondo 2 temas, 1 para durante la 	seleccion del menu y otro durante el juego
 
 --agregar opcion de ajustes :cantidad de errores maximo,desactivar musica , ect
