@@ -4,16 +4,18 @@ import entrada.Teclado;
 import objetos.PalabraSecreta;
 
 public class PartidaRapida implements ModoJuego{
-	PalabraSecreta palabraSecreta;
-	int cantidadVida;
+	
+	private PalabraSecreta palabraSecreta;
+	private int cantidadVida;
 	
 	public PartidaRapida(String palabra) {
 		palabraSecreta= new PalabraSecreta(palabra);
+		cantidadVida=3;
 	}
 
 	@Override
 	public void iniciar() {
-		cantidadVida=3;
+		
 		char letra;
 		while(!juegoTerminado()) {	///condicion de fin del juego
 			//mostrar el juego

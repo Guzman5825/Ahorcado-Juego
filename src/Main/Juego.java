@@ -30,7 +30,7 @@ public class Juego {
             	System.out.println("MODO PARTIDA RAPIDA, enter para continuar");
                 break;
             case '2':
-            	modoJuego=new SinLimites();	//falta terminar
+            	modoJuego=new SinLimites(cajaPalabras);	//falta terminar
                 System.out.println("MODO SIN LIMITE, enter para continuar");
                 break;
             case 'X':
