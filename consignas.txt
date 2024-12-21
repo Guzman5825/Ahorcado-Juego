@@ -3,7 +3,7 @@ ahorcado -- proyecto
 -1 solo jugador 
 -por defecto tiene 3 oportudanidades
 -solo puede ingresar de letras de la A-Z
--cuando se haya usado esa letra, desaparecera en la lista de opciones
+-cuando se haya usado esa letra, desaparecera en la lista de opciones(si se pone de nuevo es error)
 
 
 ---------- menu inicial
@@ -17,7 +17,7 @@ ahorcado -- proyecto
 
 --despues de terminar las partidas sin limites, enviar la cantidad de respuestas en internet
 
---agregar opcion score board para los puntajes sin limite , la imforacion debe ser enviada a una base de datos en internet ()
+--agregar opcion score board para los puntajes sin limite , la informacion debe ser enviada a una base de datos en internet ()
 
 --mostrar estadisticas, tipo : cantidad juego jugados, 
 
@@ -26,7 +26,7 @@ ahorcado -- proyecto
 
 ---------- esto sera mucho despues
 --despues tratar de implementar graficar 
---implementar lo ya sabido a java cript
+--implementar lo ya sabido a java cript (solo se que no se nada).
 
 
 -----------nivel implementacion 
