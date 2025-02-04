@@ -1,4 +1,4 @@
-
+package ElEdy;
 public class App {
     public static void main( String[] args ){
         Juego.start;
