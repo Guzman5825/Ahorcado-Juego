@@ -1,13 +1,7 @@
-package Ed-Edd-y-Eddy;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class App {
+    public static void main( String[] args ){
+        Juego.start;
+        System.out.println("Hello World!");
     }
 }
